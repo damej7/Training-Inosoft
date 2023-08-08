@@ -1,0 +1,29 @@
+[33mcommit e6a97d73be5fd87e599a6b1b1cebc83a6b9a2148[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: [1;31mDame[m <gban1mj27@gmail.com>
+Date:   Tue Aug 8 08:09:55 2023 +0700
+
+    testing push branch
+
+[33mcommit ecefd102a6dd64d7170a177b6517e813c48d2cae[m
+Author: [1;31mDame[m <gban1mj27@gmail.com>
+Date:   Tue Aug 8 08:06:43 2023 +0700
+
+    "Test commit using branch"
+
+[33mcommit ae76af48088736b8054163d887a68bbab56f2c47[m[33m ([m[1;31morigin/testbranch[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mtestbranch[m[33m)[m
+Author: [1;31mDame[m <gban1mj27@gmail.com>
+Date:   Tue Aug 8 08:01:15 2023 +0700
+
+    test branch
+
+[33mcommit adb605ecb28dacd0e0788643b9638df1ac7c5735[m
+Author: [1;31mDame[m <gban1mj27@gmail.com>
+Date:   Tue Aug 8 07:56:42 2023 +0700
+
+    Test branch
+
+[33mcommit 60aa2a69cb42802a95852a8c111a5f760ab5ff59[m
+Author: [1;31mDame[m <gban1mj27@gmail.com>
+Date:   Tue Aug 8 07:53:04 2023 +0700
+
+    This is first commit for training-inosoft repository
